@@ -1,5 +1,5 @@
 
-# Health manegment system
+# Health management system
 
 def gettime():
     import datetime
